@@ -15,3 +15,8 @@ for running this app you need  two keys to fill in main.js file:
 
 which you get from going to Settings page then go to Developers Settings pressing (OAuth applications) then you fill your apps name and
 other info it will then generate those keys for you.
+
+
+Little glimpse of the app
+
+<img src="https://github.com/jaskaran1989/GitHub-user-Finder/blob/master/githubfinderapp.gif" />
