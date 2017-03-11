@@ -9,7 +9,7 @@ Technologied used
 * Bootstrap
 
 This app user user GitHub Api to fetch and display Github user profile and repos using Ajax
-For running this app you need  two keys:
+for running this app you need  two keys to fill in main.js file:
 * Client ID
 * Client Secret
 
