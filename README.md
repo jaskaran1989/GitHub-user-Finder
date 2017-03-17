@@ -17,6 +17,6 @@ which you get from going to Settings page then go to Developers Settings pressin
 other info it will then generate those keys for you.
 
 
-##Little glimpse of the app
+## Little glimpse of the app
 
 <img src="https://github.com/jaskaran1989/GitHub-user-Finder/blob/master/githubfinderapp.gif" />
